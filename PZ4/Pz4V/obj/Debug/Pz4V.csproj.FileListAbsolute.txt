@@ -1,0 +1,16 @@
+D:\Project\VS\Pz4V\Pz4V\bin\Debug\Pz4V.exe.config
+D:\Project\VS\Pz4V\Pz4V\bin\Debug\Pz4V.exe
+D:\Project\VS\Pz4V\Pz4V\bin\Debug\Pz4V.pdb
+D:\Project\VS\Pz4V\Pz4V\obj\Debug\Pz4V.csproj.AssemblyReference.cache
+D:\Project\VS\Pz4V\Pz4V\obj\Debug\Pz4V.csproj.SuggestedBindingRedirects.cache
+D:\Project\VS\Pz4V\Pz4V\obj\Debug\Pz4V.csproj.CoreCompileInputs.cache
+D:\Project\VS\Pz4V\Pz4V\obj\Debug\Pz4V.exe
+D:\Project\VS\Pz4V\Pz4V\obj\Debug\Pz4V.pdb
+C:\Users\User\Desktop\PZ-main\Pz4V\bin\Debug\Pz4V.exe.config
+C:\Users\User\Desktop\PZ-main\Pz4V\bin\Debug\Pz4V.exe
+C:\Users\User\Desktop\PZ-main\Pz4V\bin\Debug\Pz4V.pdb
+C:\Users\User\Desktop\PZ-main\Pz4V\obj\Debug\Pz4V.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PZ-main\Pz4V\obj\Debug\Pz4V.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\PZ-main\Pz4V\obj\Debug\Pz4V.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PZ-main\Pz4V\obj\Debug\Pz4V.exe
+C:\Users\User\Desktop\PZ-main\Pz4V\obj\Debug\Pz4V.pdb
